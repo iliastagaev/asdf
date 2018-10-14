@@ -74,7 +74,7 @@ int main(){
     }
 }	
 	
-
+	cout<<"Ebat u tebya  xuevii cod and it donot work"<<endl;
 	cout << cnt << endl;
 
 	return 0;
